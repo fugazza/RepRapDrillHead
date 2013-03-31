@@ -1,0 +1,2 @@
+// ignore all machine-specific g-codes
+*.gcode
